@@ -21,6 +21,10 @@ To run the test,
 node sort.js
 ```
 
+You should get some kind of output like the below.
+
+![sort.js output](output.png)
+
 ## Writing your algorithm
 Simplify edit the `optimisedSort` method in `algorithms/optimised.js`. Make
 sure the method returns the sorted array of tasks.
