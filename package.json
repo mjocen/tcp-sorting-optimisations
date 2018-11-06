@@ -1,0 +1,23 @@
+{
+	"name": "tcp-sorting-optimisations",
+	"version": "0.1.0",
+	"description": "",
+	"main": "sort.js",
+	"dependencies": {
+		"chalk": "^2.4.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/isdampe/tcp-sorting-optimisations.git"
+	},
+	"author": "isdampe",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/isdampe/tcp-sorting-optimisations/issues"
+	},
+	"homepage": "https://github.com/isdampe/tcp-sorting-optimisations#readme"
+}

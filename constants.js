@@ -1,0 +1,4 @@
+module.exports = {
+	TASK_STATUS_GROUP_WAIT: -5,
+	TASK_STATUS_IN_PROGRESS: 20
+};
